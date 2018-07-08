@@ -1,0 +1,26 @@
+{
+  "name": "mail_example",
+  "version": "1.0.0",
+  "description": "Demonstrate the usage gmail apis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkkaushiksjce/gmail_api_demo.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "nodeJS",
+    "gmail",
+    "node-mailer"
+  ],
+  "author": "mkkaushiksjce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkkaushiksjce/gmail_api_demo/issues"
+  },
+  "homepage": "https://github.com/mkkaushiksjce/gmail_api_demo#readme"
+}
